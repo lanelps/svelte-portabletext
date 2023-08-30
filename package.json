@@ -1,4 +1,5 @@
 {
+  "types": "./dist/index.d.ts",
   "name": "@portabletext/svelte",
   "version": "2.1.1",
   "homepage": "https://github.com/portabletext/svelte-portabletext#readme",
