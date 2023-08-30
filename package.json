@@ -12,10 +12,9 @@
   "license": "MIT",
   "author": "Sanity <hello@sanity.io>",
   "type": "module",
-  "exports": {
+   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "default": "./dist/bar.js",
       "svelte": "./dist/index.js"
     }
   },
